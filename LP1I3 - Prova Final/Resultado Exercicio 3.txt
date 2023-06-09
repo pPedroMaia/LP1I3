@@ -1,0 +1,20 @@
+Propriedades de p1:
+Data: 13/06/2023
+Hora: 22:30:13
+Nome do Paciente: Pedro Maia
+Nome do Medico: Dr. Leandro
+Quantidade de consultas agendadas: 1
+
+Propriedades de p2:
+Data: 01/12/2023
+Hora: 10:15:20
+Nome do Paciente: Luisa Maia
+Nome do Medico: Dr. Murilo
+Quantidade de consultas agendadas: 2
+
+Propriedades de p1 apos alteracoes:
+Data: 24/02/2023
+Hora: 22:12:30
+Nome do Paciente: Irani
+Nome do Medico: Dra. Elaine
+Quantidade de consultas agendadas: 2
